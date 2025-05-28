@@ -28,7 +28,7 @@
   <li>Ratings and Review</li>
 </ul>
 
-Contact us for Mobile applications, APi.
+**Contact us for Mobile applications, and API Source Code**.</br>
 Email at venkatenplus@gmail.com for any queries.
 
 
