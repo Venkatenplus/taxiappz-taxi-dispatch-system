@@ -7,6 +7,31 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About TaxiAppz
+
+<p>
+  It is a complete <a href="https://taxiappz.com" target="_blank">Taxi Dispatch System</a>, which includes the following features:
+</p>
+
+<ul>
+  <li>Master Admin Panel</li>
+  <li>Dispatcher Panel</li>
+  <li>Geo Location</li>
+  <li>Driver Management</li>
+  <li>Customer Management</li>
+  <li>Trip Management</li>
+  <li>Manual Booking</li>
+  <li>Reports</li>
+  <li>User Management</li>
+  <li>Wallet</li>
+  <li>Dynamic Pricing</li>
+  <li>Ratings and Review</li>
+</ul>
+
+Contact us for Mobile applications, APi.
+Email at venkatenplus@gmail.com for any queries.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
